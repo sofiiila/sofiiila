@@ -5,7 +5,7 @@
 `Python` `Django` `DRF` `PostgreSQL` `MongoDB` `Docker` `HTML` `CSS` `unittest` `nginx` `Linux` `Bootstrap` `SQL` `Telegram bot` `TypeScript`
 
 ### Contacts:
-- Email:  
+- Email: LazarevaSofiii@yandex.ru
 - Tg: [@asofiii](https://t.me/asofiii)
 - [Хабр](https://career.habr.com/sofiiila)
 - [github](https://github.com/sofiiila)
